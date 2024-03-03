@@ -1,2 +1,2 @@
-# Rposit-rio-git-github
+# Rpositório-git-github
 Desafio de criação de reposiório git/github-DIO
